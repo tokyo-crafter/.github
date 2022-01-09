@@ -1,12 +1,17 @@
-## Hi there 👋
+## TL;DR
 
-<!--
+Minecraftマルチプレイサーバー `Tokyo Crafter Network` の提供に向けて準備を進めています。
 
-**Here are some ideas to get you started:**
+## 管理対象
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+管理対象には、ゲームのプラグインの他、MinecraftサーバインフラやWebページが含まれます。
+
+* Spigot/Bungeecord プラグイン
+* 各種サーバインフラ
+* Webページ 他
+
+公開していないリポジトリもありますが、開発コミュニティの活性化を目的として基本的には公開リポジトリとしたいと考えています。
+
+## Special Thanks!
+
+一緒に活動していただける方や、活動を支援していただける方を募集しています。
